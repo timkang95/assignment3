@@ -1,0 +1,21 @@
+/*styles for assignment 3*/
+html, body{
+  font-family: calibri;
+  color: yellow;
+  background-image: url("../images/sw.jpg");
+}
+
+h1{
+  text-align: center;
+}
+
+fieldset{
+  text-align: center;
+}
+
+fieldset:hover{
+  background-color: blue;
+}
+legend{
+  text-align: center;
+}
